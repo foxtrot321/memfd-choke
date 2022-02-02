@@ -1,5 +1,5 @@
 #include <unistd.h>
-#include "memfdd.skel.h"
+#include "memfd-choke.skel.h"
 #include <bpf/bpf.h>
 #include <bpf/libbpf.h>
 #include <signal.h>
